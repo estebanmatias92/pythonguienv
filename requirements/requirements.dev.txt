@@ -1,0 +1,7 @@
+setuptools
+pylint
+pycodestyle
+pipreqs
+black
+autopep8
+pygame

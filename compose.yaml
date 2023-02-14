@@ -1,0 +1,6 @@
+name: guienv
+services:
+  app:
+    build:
+      context: .
+    env_file: .env
